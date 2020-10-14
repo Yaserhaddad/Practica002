@@ -35,7 +35,6 @@
 <html>
 <head>
     <title>Formulario que incrementa</title>
-    link
 </head>
 <body>
     <form name= "formulario" action="<?=$_SERVER["PHP_SELF"]?>" method="post">
